@@ -12,31 +12,27 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![React native](https://img.shields.io/badge/-React native-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+![React native](https://img.shields.io/badge/-Reactnative-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Technologies for Backend:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Other Technologies:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C Language](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Bubble](https://img.shields.io/badge/-bubble-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Tools that I use:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-0D1117?style=for-the-badge&logo=arduino&labelColor=0D1117)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidStudio&labelColor=0D1117)&nbsp;
 ![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
 ![Expo](https://img.shields.io/badge/-expo-0D1117?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
-![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Total Profile Visits</b></p>  
