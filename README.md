@@ -12,18 +12,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![React native](https://img.shields.io/badge/-Reactnative-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+![React native](https://img.shields.io/badge/-Reactnative-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Technologies for Backend:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MONGODB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
 ### Other Technologies:
-![Bubble](https://img.shields.io/badge/-bubble-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Bubble](https://img.shields.io/badge/-bubble-0D1117?style=for-the-badge&logo=bubble&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Tools that I use:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -32,19 +32,18 @@
 ![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
 ![Expo](https://img.shields.io/badge/-expo-0D1117?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Total Profile Visits</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AldairAvelino}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Xavait}/count.svg" /></p> 
 <br>
 </div>
 
 <div align="center">  
-<a href="https://www.facebook.com/aldair.avelino.587" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234C68D7?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/aldair_avelino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A3AB9?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:aldair03avelino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aldair-fernando-antónio-avelino-a0bb641ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://web.facebook.com/xavier.armando.1232/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234C68D7?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href = "mailto:xavierpt32@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ao.linkedin.com/in/xavier-cambengue-1818b4b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
  
 <div align="center">
